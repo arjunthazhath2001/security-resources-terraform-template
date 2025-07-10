@@ -15,3 +15,4 @@ variable "sns_topic_arn" {
   type        = string
   description = "SNS topic ARN for CloudWatch alarm notifications"
 }
+
